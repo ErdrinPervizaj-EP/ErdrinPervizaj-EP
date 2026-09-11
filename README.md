@@ -23,8 +23,14 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco)
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-E5484D?style=for-the-badge)
+![BGP](https://img.shields.io/badge/BGP-1BA0D7?style=for-the-badge)
 ![Fiber Optic](https://img.shields.io/badge/Fiber%20Optic-FF7A00?style=for-the-badge&logo=cablevision&logoColor=white)
+![Coax](https://img.shields.io/badge/Coax-FF7A00?style=for-the-badge)
+![LAN / Ethernet](https://img.shields.io/badge/LAN%20%2F%20Ethernet-1BA0D7?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-1F9A6C?style=for-the-badge&logo=gns3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -40,14 +46,22 @@ mindmap
     Routing & Switching
       Subnetting
       VLANs
+      BGP
       Troubleshooting
     Wireless
       Wireless Essentials
-    Fiber Optic
+    Security
+      Firewalls
+      Active Directory
+    Cabling
+      Fiber Optic
+      Coax
+      LAN / Ethernet
     MikroTik
       RouterOS
-    GNS3
-      Simulation & Labs
+    Simulation
+      Packet Tracer
+      GNS3
     IoT
 ```
 
