@@ -23,13 +23,7 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco)
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-E5484D?style=for-the-badge&logo=firewalla&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-1BA0D7?style=for-the-badge)
-![Fiber Optic](https://img.shields.io/badge/Fiber%20Optic-FF7A00?style=for-the-badge&logo=cablevision&logoColor=white)
-![OLT](https://img.shields.io/badge/OLT-FF7A00?style=for-the-badge)
-![Coax](https://img.shields.io/badge/Coax-FF7A00?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-1F9A6C?style=for-the-badge&logo=gns3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,31 +38,16 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco)
 mindmap
   root((Networking))
     Routing & Switching
-      BGP
       VLANs
     Wireless
     Security
-      Firewalls
       Active Directory
-    Physical Layer
-      Fiber Optic
-      OLT
-      Coax
     MikroTik
     Automation
       Python
     Simulation
-      Packet Tracer
       GNS3
 ```
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ErdrinPervizaj-EP&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
 
 ### Contribution Snake
 
