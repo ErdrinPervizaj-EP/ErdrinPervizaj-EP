@@ -16,7 +16,7 @@
 
 ### About Me
 
-Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ Kuvendi i të Rinjve të Prizrenit &nbsp;·&nbsp; AL / EN / DE
+Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco)
 
 ### Tech & Tools
 
