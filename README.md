@@ -38,14 +38,21 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco)
 mindmap
   root((Networking))
     Routing & Switching
+      BGP
       VLANs
     Wireless
     Security
+      Firewalls
       Active Directory
+    Physical Layer
+      Fiber Optic
+      OLT
+      Coax
     MikroTik
     Automation
       Python
     Simulation
+      Packet Tracer
       GNS3
 ```
 
